@@ -1,9 +1,14 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
+哈囉!!! 我是 Ky3n，一位熱愛遊戲及競技程式的畢業生
+曾擔任一家財經資訊公司的後端工程師，目前正經歷 Gap Year，以進入遊戲開發領域為目標學習中
 
-::github{repo="saicaca/fuwari"}
+# About Blog
+這個 Blog 將會記錄
+- 筆者遊玩遊戲之心得
+- 筆者在軟體開發/AI/刷題...等等紀錄 & 筆記
+- 筆者雜談
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+# Contact
+- Email: kyle890611@gmail.com
+- Linkedin: [Ting Yao (Kyle) Liu](www.linkedin.com/in/ting-yao-liu-745795224)
+- Github: [KyEnLiu](https://github.com/KyEnLiu)
