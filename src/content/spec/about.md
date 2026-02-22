@@ -10,5 +10,5 @@
 
 # Contact
 - Email: kyle890611@gmail.com
-- Linkedin: [Ting Yao (Kyle) Liu](www.linkedin.com/in/ting-yao-liu-745795224)
+- Linkedin: [Ting Yao (Kyle) Liu](https://www.linkedin.com/in/ting-yao-liu-745795224/)
 - Github: [KyEnLiu](https://github.com/KyEnLiu)
